@@ -1,0 +1,21 @@
+{
+  "name": "Rare Bird #4332",
+  "description": "An exclusive Rare Bird with the appearance Crystal Swift on a Malachite background with Legionary icons.",
+  "image": "https://nft.fragment.com/gift/rarebird-4332.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Crystal Swift"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Malachite"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Legionary"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/rarebird-4332.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/rarebird-4332.lottie.json"
+}
