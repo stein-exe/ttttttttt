@@ -1,9 +1,10 @@
 {
-  "name": "Lab #0 Control",
-  "description": "Baseline. Same shape as the item that indexed correctly.",
-  "image": "https://picsum.photos/id/1025/512",
+  "name": "Lab Hat #0",
+  "description": "Metadata indexing test.",
+  "image": "https://picsum.photos/id/1035/512",
   "attributes": [
-    { "trait_type": "Case", "value": "Control" },
-    { "trait_type": "Host", "value": "picsum" }
+    { "trait_type": "Model", "value": "Witch Hat" },
+    { "trait_type": "Backdrop", "value": "Emerald" },
+    { "trait_type": "Rarity", "value": "Common" }
   ]
 }
