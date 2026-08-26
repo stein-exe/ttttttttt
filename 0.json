@@ -1,7 +1,7 @@
 {
   "name": "Test Hat #0",
   "description": "Model: Cone of Cold. Backdrop: Sky Blue. Symbol: Bastet.",
-  "image": "https://i.pinimg.com/736x/1f/41/fe/1f41fead1f83350205819232e7f27853.jpg",
+  "image": "https://picsum.photos/id/1062/512",
   "attributes": [
     {"trait_type": "Model", "value": "Cone of Cold"},
     {"trait_type": "Backdrop", "value": "Sky Blue"},
