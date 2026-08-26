@@ -1,0 +1,10 @@
+{
+  "name": "Test Hat #0",
+  "description": "Model: Cone of Cold. Backdrop: Sky Blue. Symbol: Bastet.",
+  "image": "https://picsum.photos/seed/hat0/512",
+  "attributes": [
+    {"trait_type": "Model", "value": "Cone of Cold"},
+    {"trait_type": "Backdrop", "value": "Sky Blue"},
+    {"trait_type": "Symbol", "value": "Bastet"}
+  ]
+}
