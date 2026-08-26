@@ -1,0 +1,10 @@
+{
+  "name": "Test Hat #3",
+  "description": "Testnet pipeline check.",
+  "image": "https://hatrabbits.com/wp-content/uploads/2017/01/random.jpg",
+  "attributes": [
+    { "trait_type": "Model", "value": "Witch Hat" },
+    { "trait_type": "Backdrop", "value": "Emerald" },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}
