@@ -1,0 +1,10 @@
+{
+  "name": "Test Hat #2",
+  "description": "Testnet pipeline check.",
+  "image": "https://picsum.photos/id/1025/512",
+  "attributes": [
+    { "trait_type": "Model", "value": "Witch Hat" },
+    { "trait_type": "Backdrop", "value": "Emerald" },
+    { "trait_type": "Rarity", "value": "Common" }
+  ]
+}
