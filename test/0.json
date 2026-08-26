@@ -1,0 +1,9 @@
+{
+  "name": "Lab #0 Control",
+  "description": "Baseline. Same shape as the item that indexed correctly.",
+  "image": "https://picsum.photos/id/1025/512",
+  "attributes": [
+    { "trait_type": "Case", "value": "Control" },
+    { "trait_type": "Host", "value": "picsum" }
+  ]
+}
