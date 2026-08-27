@@ -1,0 +1,21 @@
+{
+  "name": "Durov’s Cap #3577",
+  "description": "An exclusive Durov’s Cap with the appearance Creamsicle on a Sapphire background with Money Bag icons.",
+  "image": "https://nft.fragment.com/gift/durovscap-3577.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Creamsicle"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Money Bag"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/durovscap-3577.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/durovscap-3577.lottie.json"
+}
