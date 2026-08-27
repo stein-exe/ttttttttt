@@ -1,0 +1,21 @@
+{
+  "name": "Scared Cat #16481",
+  "description": "An exclusive Scared Cat with the appearance Jeopard on a Sapphire background with Blood Drop icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-16481.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Jeopard"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Sapphire"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Blood Drop"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/scaredcat-16481.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/scaredcat-16481.lottie.json"
+}
