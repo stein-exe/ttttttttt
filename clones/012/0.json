@@ -1,0 +1,21 @@
+{
+  "name": "Vice Cream #329448",
+  "description": "An exclusive Vice Cream with the appearance Berry Shake on a Strawberry background with Grape icons.",
+  "image": "https://nft.fragment.com/gift/vicecream-329448.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Berry Shake"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Strawberry"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Grape"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/vicecream-329448.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/vicecream-329448.lottie.json"
+}
