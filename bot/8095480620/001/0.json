@@ -1,0 +1,21 @@
+{
+  "name": "Plush Pepe #1821",
+  "description": "An exclusive Plush Pepe with the appearance Gummy Frog on a Platinum background with Ring icons.",
+  "image": "https://nft.fragment.com/gift/plushpepe-1821.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Gummy Frog"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Platinum"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Ring"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/plushpepe-1821.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/plushpepe-1821.lottie.json"
+}
