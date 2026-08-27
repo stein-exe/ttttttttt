@@ -1,0 +1,21 @@
+{
+  "name": "Scared Cat #16480",
+  "description": "An exclusive Scared Cat with the appearance Silver Napper on a Navy Blue background with Fish Skeleton icons.",
+  "image": "https://nft.fragment.com/gift/scaredcat-16480.webp",
+  "attributes": [
+    {
+      "trait_type": "Model",
+      "value": "Silver Napper"
+    },
+    {
+      "trait_type": "Backdrop",
+      "value": "Navy Blue"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Fish Skeleton"
+    }
+  ],
+  "lottie": "https://nft.fragment.com/gift/scaredcat-16480.lottie.json",
+  "animation_url": "https://nft.fragment.com/gift/scaredcat-16480.lottie.json"
+}
